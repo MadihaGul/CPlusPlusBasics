@@ -5,6 +5,9 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    int i = 0;
+    std::cout << "Enter a number:";
+    std::cin >> i;
+    std::cout << "\n Number entered: " << i << '\n';
 }
 
