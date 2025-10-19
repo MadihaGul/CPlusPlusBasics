@@ -5,6 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "sum of intergers 2+2:" << (2+2) << '\n';
+    std::cout << "subtraction of decimals 8.2-2.1:" << (8.2 - 2.1) << '\n';
 }
 
